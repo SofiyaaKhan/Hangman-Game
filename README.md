@@ -1,0 +1,1 @@
+A classic Hangman game built using HTML, CSS, and JavaScript. Players guess letters to complete a hidden word within a limited number of attempts. The game features dynamic feedback for correct and incorrect guesses, visual representation of the hangman stages, and a user-friendly interface. Ideal for practicing vocabulary and having fun!
